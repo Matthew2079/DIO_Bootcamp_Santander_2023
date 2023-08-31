@@ -1,17 +1,11 @@
 # DIO_Bootcamp_Santander_2023
-Esse repositório tem o objetivo em armazenar o conteúdo gerado durante o aprendizado no [Bootcamp Santande 2023](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023) com parceria com a [DIO (Digital Innovation One)](https://www.dio.me/).
+Esse repositório tem o objetivo em armazenar o conteúdo gerado durante o aprendizado no [Bootcamp Santander 2023](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023) com parceria com a [DIO (Digital Innovation One)](https://www.dio.me/).
 
 <p align="center">
  <a href="https://www.dio.me/"> <img src="https://hermes.dio.me/tracks/cover/30278db5-1581-46e2-b04d-42070420b880.png">
-
 <p align="center">
- <img src="" height="40" width="52" alt="html5 logo"/>
- <img src="" height="40" width="52" alt="css3 logo"/>
- <img src="" height="40" width="52" alt="javascript logo"/>
- <img src="" height="40" width="52" alt="typescript logo"/>
- <img src="" height="40" width="52" alt="angularjs logo"/>
- <img src="" height="40" width="52" alt="java logo"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="spring logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"/>
+
 
 
 
