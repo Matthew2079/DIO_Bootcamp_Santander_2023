@@ -6,20 +6,13 @@ Esse repositório tem o objetivo em armazenar o conteúdo gerado durante o apren
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"/>
 
-
-
-
-<p align="center">
- <img src="">
-
-
+ 
 ## Links Úteis
 
 <h3>:desktop_computer: IDE's</h3>
 
 1. [Visual Studio Code](https://code.visualstudio.com/)
 
-   
 
 <h3>:cd: Softwares</h3>
 
@@ -30,7 +23,6 @@ Esse repositório tem o objetivo em armazenar o conteúdo gerado durante o apren
 3. [Typora](https://typora.io/)
 
    
-
 <h3>:hammer_and_wrench: Ferramentas Online</h3>
 
 1. [Conversor de Imagens](https://www.img2go.com/pt)
@@ -38,8 +30,6 @@ Esse repositório tem o objetivo em armazenar o conteúdo gerado durante o apren
 2. [Compressor de Imagens](https://tinypng.com/)
 
 3. [Web Apps - Gerenciador de arquivos](https://123apps.com/)
-
-   
 
 
 <h3>:pushpin: Extras</h3>
