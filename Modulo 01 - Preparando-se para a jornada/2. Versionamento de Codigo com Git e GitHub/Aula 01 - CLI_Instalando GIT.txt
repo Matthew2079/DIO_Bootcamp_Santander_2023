@@ -1,0 +1,36 @@
+Comandos básicos para um bom desempenho no terminal
+
+GUI x CLI
+
+Navegação
+GUI - Graphical user interface
+CLI - Command-line interface 
+
+Windows 
+Comandos derivados do Power Shell
+- cd - troca o diretório no campo da pesquisa especifica
+---> caminho inverso retorna o nível cd ..
+---> limpar o CLI comando cls (clean screen)
+---> TAB complementa textos de buscas ex: C:\> cd W -> cd Windows.
+- dir - lista os diretórios da máquina
+- mkdir - cria diretórios 
+- del (deleta todo contéudo do diretório) / rmdir (remove todo contéudo inclusive o diretório) ex: C:\>rmdir workspace /S /Q (Precisa das Flags modo usual)
+OBS: quando um comando executa sem falhas nada é informado.
+
+Unix
+Comandos derivados do Bash
+- cd - troca o diretório no campo da pesquisa especifica
+---> caminho inverso retorna o nível cd ..
+---> limpar o CLI comando clear (Ctrl+L)
+- ls - lista os diretórios da máquina
+- mkdir - cria diretórios
+- rm-rf (remove todo contéudo inclusive o diretório)
+r-recursividade apagar subpastas / f-forçar a ação sem questionar.
+OBS: quando um comando executa sem falhas nada é informado.
+
+simbolo '>' significa redirecionador de fluxo e 'echo' devolve a informação solicitada.    ex: C:\workspace>echo hello > hello.txt
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Realizando a instalação do GIT
+
+https://git-scm.com/download/win

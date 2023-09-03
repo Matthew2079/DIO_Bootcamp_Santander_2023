@@ -1,0 +1,49 @@
+Conhecendo os Roadmaps DIO
+
+1. Acesse a página ROADMAPS DIO
+2. Responda as perguntas 
+3. Confira o Roadmap criado pela IA
+4. Contribua acessando repositório
+
+# Notion - Visão Geral do Notion: Interface e Blocos
+
+## Basic Blocks (Blocos Básicos)
+
+
+Text (Texto)s
+-> Atalho: `/text` `/pain`
+
+Page (Página)
+-> Atalho: `/page` `[[`
+
+To-do List (Lista de afazeres)
+-> Atalhos: `/todo` `[ ] e barra de espaço`
+
+Headings (Títulos)
+-> Atalhos:  `/h1` `/h2` `/h3` `/#` `/##` `/###` `# e barra de espaço` `## e barra de espaço` `### e barra de espaço`
+
+Table (Tabela)
+Atalho: `/table` 
+-> Header row / Header column
+
+Bulleted List (Lista com marcadores)
+-> Atalhos: `/bullet`   `* e barra de espaço` `- e barra de espaço`  `+ e barra de espaço` `tab para adicionar um sub`
+
+Numbered List (Lista numerada)
+-> Atalho: `/num`
+
+Toggle List (Lista alternada)
+-> Atalho: `/toggle`
+
+Quote (Citar)
+-> Atalhos: `/quote`  `“ e barra de espaço`
+
+Divider (Divisor)
+-> Atalho: `/div`
+
+Advanced Blocks (Blocos avançados)
+-> Atalho: `/code`
+
+Columns (Colunas)
+-> Atalhos: `/columns`  `/c2` `/c3` `/c4` `/c5` `pressionar ::, arrastar e soltar ao lado`
+

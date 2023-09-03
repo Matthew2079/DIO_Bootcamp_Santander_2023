@@ -1,0 +1,127 @@
+Para acessar o editor online do Github logar na conta -> na parte <>code clicar com o "." do teclado e a página irá abrir.
+
+-> $ git init.
+-> $ git add. 
+-> $ git commit.
+--------------------------------------------------------------------------------------------------------------
+CONFIGURAÇÕES DO GIT
+
+Comando $ git config --list - mostra todas as configurações salvas.
+
+CRIAR NOVO
+Comando $ git config --global -- user.email "seu email" - configura novo nome.
+Comando $ git config --global -- user.name "seu nome de usuario" - configura novo nome.
+
+RESETAR
+Comando $ git config --global -- unset user.email - reseta o email configurado ao dispositivo.
+Comando $ git config --global -- unset user.name - reseta o usuario configurado ao dispositivo.
+
+HABILITAR CLONAGEM VIA TOKEN
+1. Gerar um Token na plataforma do GitHub.
+2. Inserir username + senha = token (gerado)
+3. Comando $ git config --global creadential.helper store (salva o token localmente até expirar)
+4. Comando $ git config --global --show-origin creadential.helper - Mostra o local onde esta salva essa configuração.
+
+VERIFICA GIT REMOTE
+Comando $ git remote add origin ....link.... - adiciona o link da onde está o repositório remoto.
+Comando $ git remote -v - mostra os repositórios referenciados da máquina atual.
+
+INICIALIZAR O REPOSITÓRIO
+Comando $ git init - Por meio deste comando estamos criando um repositório dentro da pasta .git
+--> flag -a (mostra arquivos ocultos) acessar a pasta de gerenciamento do Git -> cd .git/ EX: ls -a / dir -a
+REMOVER O REPOSITÓRIO
+-> Em caso de inicializar um repositório em uma pasta errada basta remover o .git deste local.
+Comando $ rm -rf .git
+
+DEFININDO EDITOR DE COMMITS DO GIT
+Comando $ git config --global --list
+Comando $ git config --global core.editor"nome do editor" [ core.editor"vim" or core.editor"code --wait"]
+
+VERIFICAR NOME DEFAULT DA BRANCH
+Comando $ git config init.defaultBranch - Verifica o nome padrão gerado "Master"
+Comando $ git config --global init.defaultBranch main - Altera o nome
+
+OBS: $ git config --global --unset core.editor"vim" or core.editor"code --wait" (Desfaz a especificação do editor)
+*No editor "vim" aperta tecla V para conseguir editar os campos visuais.
+*No editor "vim" aperta INSERT para conseguir editar os campos visuais.
+*Para sair :wq (salvar e sair).
+
+VERIFICANDO LOGS DE COMMITS
+Comando $ git log - Mostra o histórico de logs de commits realizados.
+Comando $ git reflog - Mostra todas as alterações e commits registrados.
+
+--------------------------------------------------------------------------------------------------------------
+
+VALIDANDO OS DADOS
+
+Comando $ git status - mostra o status do repositório atual.
+
+Comando $ touch .gitignore - Cria arquivo que salva informações que o GIT irá ignorar durante o commit.
+Comando $ touch "nomedapasta".gitkeep - Adiciona essa pasta como visivel após solicitar o "git status".
+Comando $ git restore "nomedoarquivo_pasta...." - Restaura as informações que foram alteradas e salvas.
+
+Comando $ git add *  - seleciona todos arquivos da Working Directory.
+Comando $ git add - seleciona todos arquivos da Working Directory.
+Comando $ git add nomeArquivo - seleciona todos arquivos da Working Directory.
+
+Comando $ git commit -m "mensagem do commit" - Move os arquivos do estágio final para unmodified.
+Comando $ git commit - Acessa o commit solicitando a Estrutura: Assunto / Corpo / Rodapé.
+Comando $ git commit --amend -m "mensagem do commit" - Substitui a mensagem do commit anterior.
+
+--------------------------------------------------------------------------------------------------------------
+
+MANIPULANDO O REPOSITÓRIO
+
+Comando $ git push origin master - sobe os arquivos daquele repositório para o remoto.
+Comando $ git pull origin master - puxa os arquivos daquele repositório remoto.
+
+Comando $ git fetch origin - puxa os arquivos do repositório remoto (diferente) sem mesclar com o repositório local.
+Comando $ git diff "Branchdeorigem" origin/"Branchdeorigem" - Mostra as informções difentes entre as branches comparadas.
+
+Comando $ git clone "link https" --branch "nomedabranch" --single-branch - Especifica qual branch clonar de um repositório com várias.
+
+--------------------------------------------------------------------------------------------------------------
+
+COMANDOS RELACIONADOS A BRANCH 
+
+Comando $ git checkout -b (Cria uma branch nova e se move para ela / checkout isolado indica movimentação entre branches)
+Comando $ git checkout 'nomeDaBranchOrigem'
+Comando $ git merge 'nomeDaNovaBranch' 
+
+OBS: para juntar as branches de um repositório antes é necessário se mover a branch de origem e posteriormente executar o comando.
+- A Tag HEAD aponta para branch do último commit válido.
+
+Comando $ git branch (lista as branchs presentes no projeto)
+Comando $ git branch -d nomeDaBranch (deleta a branch indicada)
+Comando $ git branch -v (Mostra todos os commits por branch)
+
+--> Renomeando a branch estando na mesma
+Comando $ git branch -m novoNome
+
+--> Renomeando a partir de outra branch 
+Comando $ git branch -m antigoNome novoNome
+
+--------------------------------------------------------------------------------------------------------------
+
+COMANDOS RELACIONADOS AO STASH
+
+Comando $ git stash save "...mensagem de contexto..." (salva os arquivos que estavam no index do repositório, para ser recuperado depois e permitir a sua movimentação entre branchs sem estar carregando arquivos não comitados)
+Comando $ git stash list (lista tudo que está armazenado)
+Comando $ git stash pop passarOIndex 0,1 ...... (reabilita os arquivos para serem comitados)
+Comando $ git stash clear (limpa os arquivos armazenados)
+
+--------------------------------------------------------------------------------------------------------------
+
+COMANDOS RELACIONADOS A REVERSÃO DE COMMITS
+
+Comando $ git reset: está relacionado aos arquivos.
+-> peLo hash ou pelo HEAD~x (x= quantidade de reversões de commit)
+--> variações:
+	-- soft (antes do commit [index])
+	-- mixed (antes das alterações [Working Directory])
+	-- hard (apaga os arquivos gerados)
+
+Comando $ git revert: está relacionado ao conteúdo dos arquivos.
+-> Não possui as variações.
+
+
