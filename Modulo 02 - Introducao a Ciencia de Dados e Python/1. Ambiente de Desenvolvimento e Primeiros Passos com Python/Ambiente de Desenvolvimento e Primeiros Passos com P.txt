@@ -1,0 +1,27 @@
+Instalando o Python
+https://www.python.org/
+https://python.org.br/instalacao-windows/
+
+Instalando o Vscode
+https://code.visualstudio.com/s
+Extensões para instalar: Python / autoDocstring - Python / Visual Studio Intellicode
+-> Sugestão de Tema: Identical Sublime Text Monokai Theme
+
+------------------------------------------------------------------------------------------------------
+
+Origem do Python
+1. Nasceu em 1989 como hooby por Guido Van Rossum.
+2. Deu continuidade a linguagem ABC.
+
+Objetivos do Python
+1. Uma linguagem fácil e intuitiva.
+2. Código aberto, para que todos possam contribuir.
+3. Código tão inteligível quanto Inglês.
+4. Adequada para tarefas diárias, e produtiva!
+
+Características 
+1. Tipagem dinâmica e forte.
+2. Multiplataforma e multiparadigma.
+3. Comunidade gigante e ativa.
+4. Curva de aprendizado baixa.
+
