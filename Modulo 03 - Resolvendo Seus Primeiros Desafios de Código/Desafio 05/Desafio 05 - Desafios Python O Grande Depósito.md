@@ -17,7 +17,7 @@ Você foi contratado por um banco para desenvolver um programa que auxilie seus 
 ⚠ **Exemplos** ⚠
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-![image-20230914231640166](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20230914231640166.png)
+![image-20230914231640166](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/dcbd75d7-211f-4cce-a268-cb4f9277dd0f)
 
 
 
