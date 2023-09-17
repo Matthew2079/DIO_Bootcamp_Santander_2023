@@ -17,7 +17,8 @@ Após uma análise cuidadosa realizada pela equipe de desenvolvimento de uma emp
 ⚠ **Exemplos** ⚠
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
+![image-20230914205323143](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/a80f7b49-97a7-4f7e-8f20-ddea43e049aa)
 
 
-![image-20230914205323143](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20230914205323143.png)
+
 
