@@ -25,7 +25,8 @@ Uma nova feature para um sistema bancário foi analisada pela equipe de desenvol
 ⚠ **Exemplos** ⚠
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-![image-20230914215531955](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20230914215531955.png)
+![image-20230914215531955](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/28fd3014-d21a-49d8-9fce-3a7228daf13b)
+
 
 
 
