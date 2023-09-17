@@ -23,7 +23,8 @@ Regra de Formatação: Considere apenas uma casa decimal para esse desafio.
 ⚠ **Exemplos** ⚠
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-![image-20230914211002258](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20230914211002258.png)
+![image-20230914211002258](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/721f8f82-2229-4ecf-9575-8907970a6e85)
+
 
 
 
