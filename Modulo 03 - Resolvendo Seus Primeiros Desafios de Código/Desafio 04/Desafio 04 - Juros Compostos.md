@@ -24,7 +24,8 @@ Imagine que você está desenvolvendo um aplicativo para um banco que deseja cal
 ⚠ **Exemplos** ⚠
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-![image-20230914222607255](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20230914222607255.png)
+![image-20230914222607255](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/96c76ca2-1ac1-48aa-acd3-9edd80d63066)
+
 
 
 
