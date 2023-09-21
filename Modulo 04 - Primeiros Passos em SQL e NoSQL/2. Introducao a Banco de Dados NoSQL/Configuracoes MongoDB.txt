@@ -1,0 +1,28 @@
+-> Estrutura do MongoDB
+ - Database contém vários DOCUMENTOS e cada documento contém várias Coleções.
+ - Não oferece integridade referencial entre documentos.
+
+-> Coleções
+ - Agrupamento lógico de documentos;
+ - Não exige esquema ou que os documentos tenham a mesma estrutura. 
+
+-> Características
+ - Devem começar com uma letra ou um underscore(_);
+ - Podem conter letras, números ou underscores;
+ - Não podem ser vazios;
+ - Não podem ter mais de 64 bytes de comprimento.
+
+-> Documentos
+ - Armazenados em BSON (Binary JSON) [flexíveis e semiestruturados];
+ - Cada documento possui um identificador único "_id";
+ - É composto por chaves e valores;
+ - Tamanho máximo de 16Mb;
+ - Aninhamento de documentos;
+ - Flexibilidade na evolução do esquema.
+
+-> Tipos de Dados Simples
+ - String / Number / Boolean / Date / Null / Objectld.
+
+-> Tipos de Dados Complexos
+ - Array / Documento Embutido / Referência / GeoJSON.
+

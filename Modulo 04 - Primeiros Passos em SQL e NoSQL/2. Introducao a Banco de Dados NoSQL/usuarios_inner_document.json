@@ -1,0 +1,25 @@
+{
+   "-id":1,
+   "nome":"Mateus Frahm",
+   "idade":28,
+   "data_nascimento":"1994-09-20",
+   "endereços":[
+      {
+         "logadouro":"Vila souza",
+         "numero":145,
+         "bairoo":"são joão",
+         "cidade":"Indaiatuba"
+      }
+   ],
+   "interesses":[
+      "kart",
+      "culinaria"
+   ],
+   "reservas":[
+      {
+         "data":"2023-10-10",
+         "status":"pendente",
+         "destino":"ObjectId(""123"")"
+      }
+   ]
+}
