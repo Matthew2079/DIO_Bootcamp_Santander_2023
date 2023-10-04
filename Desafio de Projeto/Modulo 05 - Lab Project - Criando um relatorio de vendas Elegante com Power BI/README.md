@@ -17,12 +17,9 @@ Projeto realizado no Bootcamp Santander 2023 [Digital Innovation One](https://di
 	- **Fiquem atentos a:**
 	
 	  - Estrutura definida;
-
-     - Botões de navegação que fornecem navegabilidade; 
-
-     - Segmentadores utilizados e botões com imagem associado;
-
-     - Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto.
+   	  - Botões de navegação que fornecem navegabilidade;
+      - Segmentadores utilizados e botões com imagem associado;
+      - Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto.
    
        
    
@@ -38,10 +35,18 @@ Projeto realizado no Bootcamp Santander 2023 [Digital Innovation One](https://di
    
        
    
-   - **Lembre-se de: **
+   - **Lembre-se de:**
    
      - Criar a segunda página do relatório;
      - Publique o seu relatório no Power BI Service;
      - Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros;
-     - Submeta seu projeto através do link no github. 
+     - Submeta seu projeto através do link no github.
+
+#### Power BI - Services - Página 01
+![Relatorios Lab Project - Pagina_01](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/d98a5c09-c739-4385-a1c3-b50706b6588a)
+
+#### Power BI - Services - Página 02
+![Relatorios Lab Project - Pagina_02](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/f391bb8c-6901-4e0b-8fa8-5de78b38a312)
+
+
 
