@@ -1,0 +1,6 @@
+O que é Power BI?
+ -> Preenche a lacuna entre os dados e a tomada de decisão.
+ -> Uso facilitado amigável.
+ -> Análise descritivas, dashboards e relatórios.
+ -> Possui integração com a Linguagem R e Python.
+ -> Power BI / Automate / APPs / Gateway.

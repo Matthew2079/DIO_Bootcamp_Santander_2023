@@ -1,0 +1,23 @@
+
+Introdução SQL (1970)
+
+-> Linguagem para: 
+ - Manipulação de Dados;
+ - Execução de operações.
+
+-> Classificações:
+ - DDL: Data Definition Language;
+ - DML: Data Manipulation Language;
+ - DCL: Data Control language;
+ - DQL: Data Query Language.
+
+SQL Analytics
+ -> Consiste na utilização do SQL para manipulação, transformação e análise de dados com foco em BI.
+ -> Estrutura Tabular.
+ -> JOINs querires.
+
+Trabalhando com SQL
+ -> Plano de Estudo:
+	-> Cenário do mundo real;
+	-> Situação com problema de negócios;
+	-> Escolha da aboradagem (Análise).

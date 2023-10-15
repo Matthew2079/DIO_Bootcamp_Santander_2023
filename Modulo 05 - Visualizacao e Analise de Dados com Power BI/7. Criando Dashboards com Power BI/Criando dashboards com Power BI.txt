@@ -1,0 +1,21 @@
+
+O que é dashboards?
+ -> Permitem ques os consumidores de relatório criem um artefato de dados direconados que é personalizado apenas para eles.
+
+Características
+ -> Visuais Fixados / Visuais de relatórios distintos.
+ -> Vários conjuntos de dados ou reports;
+ -> Não possuem painéis Filtro, Visualização e campos;
+ -> Podem ter apenas uma página;
+ -> Dataset analisado -> report;
+ -> Ambos podem ser atualizados;
+ -> Manipulação dos blocos.
+
+Quando usar dashboards?
+ -> Devem ser uma coleção de várias fontes, não apenas uma "plataforma de lançamento" para relatórios.
+
+Streaming no Power BI
+ -> Capacidade de exibir dados em tempo real;
+ -> Grande volume e velocidade;
+ -> Dashboards são telas de histórias;
+ -> Dados em cache temporário.

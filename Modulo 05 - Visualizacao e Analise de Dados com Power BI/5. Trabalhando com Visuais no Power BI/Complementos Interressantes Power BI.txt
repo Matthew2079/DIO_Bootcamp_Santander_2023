@@ -1,0 +1,7 @@
+
+Aplicativos Interressantes para adicionar ao Power BI (Visuais personalizados)
+
+-> Chiclete Slicer;
+-> Image Grid;
+-> Radar Chart;
+-> Sparkline By OkViz.

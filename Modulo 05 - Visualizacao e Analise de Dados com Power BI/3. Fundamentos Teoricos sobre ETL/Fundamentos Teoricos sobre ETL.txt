@@ -1,0 +1,42 @@
+Processos ETL e ELT
+
+O que é o ETL?
+ -> Extract, Transform e Load.
+ -> Analistas de dados e Cientistas de Dados.
+
+Pipeline de Dados (Extração).
+ -> CRM / Filas / Legados / Cloud / SGBD / Files (Fontes Heterogêneas).
+
+Transformação
+ -> Adequação dos dados para o contexto a qual deseja utilizar.
+ -> Realizada a limpeza dos dados. (Clean)
+
+Carregamento
+ -> Armazenamento e disponibilização dos dados para os profissionais específicos.
+ -> Análise dos dados.
+
+O que é o ELT?
+ -> Extract, Load e Transform.
+ -> Solucionam o mesmo problema.
+ --> Diferença: Abordagem de transformação (Engenheiro de Dados) / Perspectiva sobre os dados.
+ ---> Permite maior agilidade no processo, embora postegar a operação.
+
+Extração: Coleta de dados brutos / Fontes Heterogêneas / Objetivos: Integração posterior.
+Carregamento: Transferência / Dados brutos / Data Warehouse ou repo.
+Transformação: Transformação dos dados dentro do repositório / Aplicação das análises.
+
+Gera: Otimização de tempo / Independência de TI -> Responsável: Profissionais de análise de dados.
+
+Diferenças entre ETL e ELT?
+
+ELT - Vantagens: 
+ -> Tempo de Load [Delay];
+ -> Transform [Gargalo na transformação];
+ -> Maintenaince [Custo com atualização];
+ -> Complexidade de implementação.
+ -> Limitação de dados [Quais dados disponíveis?];
+ -> Suporte à Data Warehouses [Como lidar com os dados?];
+ -> Usuabilidade [Abordagem do processo].
+
+ETL: Problemas com armazenagem de dados / ELT: Sem problemas com armazenamento dos dados.
+

@@ -1,0 +1,46 @@
+Inteligência de Negócios
+
+KPIs
+ -> KPI - Key Performace Indicator;
+ -> Visão dos Stakeholders sobre a empresa;
+ -> Varia de acordo com o contexto.
+
+Vantagens: 
+ -> Contabilização da performance dos colaboradores (track, progresso);
+ -> Permite ajuste dos gerentes (adequação da estratégia);
+ -> Todos na mesma página (alvo comum, mesma perspectiva);
+ -> Avalia a saúde da empresa (Performance, visão objetiva).
+
+Categorias
+ -> Operacional;
+ -> Estratégica;
+ -> Leading ou lagging (Antecipação e Atrasos);
+ -> Qualitativa ou quantitativa.
+
+KPIs Levels
+ -> Company-level;
+ -> Departament-level;
+ -> Project-level.
+
+Questões Importantes
+ 1. Por que esse resultado é importante?
+ 2. Quem é responsável pelo resultado?
+ 3. Como o resultado pode ser influenciado?
+ 4. Como você vai medir o progresso?
+ 5. Com que frequência você medirá o progresso?
+ 6. Como você saberá se atingiu seus objetivos?
+
+Observações
+ -> KPIs simples e claros;
+ -> Comunicação para divulgar os KPIs;
+ -> Refinamento ao longo do tempo.
+
+S.M.A.R.T -> Specific, Measurable, Achievable, Realistic, Timely. (Result -> GOAL)
+
+Métricas: São medidas que focam no comportamento do usuário, não no resultado da sua estratégica.
+ -> Exs: indicam as páginas que o usuário acessou, as vendas que foram realizadas, quantas visitas o site recebeu, a origem do tráfego, etc.
+
+KPIs: É criado a partir das métricas extraindo as principias conclusões.
+ -> Exs: cadastros em newsletter, quantidade de downloads, tempo de permanência no site, taxa de conversões de vendas, etc.
+
+Tarefas de um analista : Prepare -> Analyze -> Model -> Manage -> Visualize.

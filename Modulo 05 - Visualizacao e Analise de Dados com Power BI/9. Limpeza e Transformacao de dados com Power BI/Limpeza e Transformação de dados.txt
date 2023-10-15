@@ -1,0 +1,22 @@
+Realidade - Fontes heterogêneas - Coleta
+
+Dados para análise 
+ -> Status - tipo númerico;
+ -> Erros nas colunas;
+ -> Valores nulos;
+ -> Duplicações de IDs;
+ -> Coluna complexa - endereços.
+
+Problemas 
+ -> Dados inválidos;
+ -> Resultados incorretos;
+ -> Relatórios equivocados;
+ -> Más decisões.
+
+Dados Limpos 
+ -> Resultados precisos quando fazem agregações e cálculos;
+ -> As tabelas são organizadas;
+ -> As duplicatas são removidas;
+ -> Divisão de uma coluna complicada em duas colunas mais simples;
+ -> Combinação  de colunas para facilitar a leitura;
+ -> Códigos e inteiros podem ser subtituídos por valores legíveis por humanos.

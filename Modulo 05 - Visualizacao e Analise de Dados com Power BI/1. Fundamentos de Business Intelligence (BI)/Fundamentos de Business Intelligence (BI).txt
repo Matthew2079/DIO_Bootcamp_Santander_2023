@@ -1,0 +1,73 @@
+Objetivo Geral
+
+-> Pensamento Analítico;
+-> SQL Analytics;
+-> Extração e Análise de dados;
+-> Conhecimento em processo ETL;
+-> Introdução ao PowerBI.
+
+O que são Banco de Dados:
+ -> Um banco de dados é uma coleção organizada de informações ou dados estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
+ --> Aplicado em: Social media, Medicina, E-commerce, Negócios, Engenharia, etc...
+
+Mercado de Data
+
+1. Engenheiro de Dados: Desenho / Construção / Sustentação das soluções de dados.
+ -> Extração de dados de fontes heterogêneas.
+ -> Disponibilizar os dados para serem consumidos pelos analistas e cientistas.
+
+2. Cientista de dados: Modelagem / Reconhecimento de padrões / predição. 
+ -> Busca responder perguntas atreladas ao contexto do negócio, buscando insigths através de técnicas de modelagem.
+
+3. Analista de dados: Criação de dashboards / Apresentação visual dos dados. (TI)
+ -> Busca entender o comportamento do negócio a partir dos dados.
+ -> Realiza o diagnóstico, identifica possíveis motivos para comportamento e verifica métrica.
+
+Outra carreirras: BI (Business Intelligence Analyst, Logistic / marketing, Machine Learning Enginieer, Data Architect.
+
+Dados x Informações x Conhecimento
+
+	1. Dados: Dados são observações documentadas ou resultados da medição. A disponibilidade dos 	dados oferece oportunidades para a obtenção de informações. Os dados podem ser obtidos pela percepção através dos sentidos (por exemplo observação) ou pela execução de um processo de medição.
+
+	2. Informação: é descrito como os dados estruturados, organizados e processados, apresentados dentro do contexto, o que o torna relevante e útil para a pessoa que o deseja.
+
+	3. Conhecimento: O conhecimento é a capacidade humana de entender, apreender e compreender as coisas, além disso ele pode ser aplicado, criando e experimentando o novo. 
+
+Objetivo - Fluxo dos dados
+
+Dados -> Informações -> Conhecimento -> Decisões.
+
+BI (Business Intelligence)
+
+-> Consiste em uma área composta por estratégias e tecnologias utilizadas pelas empresa a fim de realizar análise de dados e gerenciamento das informações.
+
+	1. Objetivo: Transformar dados em conhecimento.
+	2. Entendimento: Fatores conhecidos e não conhecidos.
+	3. Foco: Operações e melhorias.
+
+Futuro do BI
+ -> Diferentes escopos;
+ -> Variedade dos dados;
+ -> Especificidade;
+ -> Granularidade de dados.
+
+Softwares de BI
+ -> Orquestração;
+ -> Recuperação de dados;
+ -> Integração;
+ -> Relatórios de visualização.
+
+Big Data: Volume / Variedade / Velocidade / Veracidade.
+BI: Dados típicos / Maioria das empresas usa / Baixo volume de dados.
+
+BI & Data Science (DS)
+ -> Tipos de Análise: 
+ - Descritiva / Diagnóstica (Causa e efeito) / Preditiva (Probabilidade) / Prescredivo (Resolução)
+ --> O que aconteceu? / Por que? / O que vai acontecer? / O que fazer?
+
+Data Analytics & Big Data
+Data Source -> ETL -> Data Warehouse -> Análise de dados -> Visualização dos dados.
+
+Big Data & BI
+ -> Big data: Dados não estruturados (Cassandra, Apache Spark, Hadoop)
+ -> BI: MySQL / MongoDB

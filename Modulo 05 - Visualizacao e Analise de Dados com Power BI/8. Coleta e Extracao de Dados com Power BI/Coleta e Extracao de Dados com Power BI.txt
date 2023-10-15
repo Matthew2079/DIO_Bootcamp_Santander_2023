@@ -1,0 +1,56 @@
+Power Query - Feature presente no Power BI
+
+Orgabização dos Dados
+ -> Manipular dados;
+ -> Remover erros;
+ -> Combinar resultados.
+
+Fluxo de Dados no Power BI
+
+Coleta -> Transformação (Power Query) -> Criação do Dashboard -> Publicação do Relatório -> Inserção em um Dashboard.
+
+Ficheiros: csv, txt, excel.
+Fontes: Local, OneDrive, Sharepoint, BDs, Sistemas, APIs, etc ...
+
+Dataset de origem
+ -> Mudança durante projeto;
+ -> Atualização do local do dataset.
+ -> fluxo: SQL Database -> Power BI -> relatório.
+
+Quando utilizar SQL?
+ -> Seleção de dados da base;
+ -> Carregamento parcial;
+ -> Junção de tabelas.
+
+Obs sobre SQL
+ -> Teste sua consulta;
+ -> Utilizae outro meio para teste;
+ -> Vista no Power Query?
+
+Base NoSQL
+ -> Document model / JSON / Sql Flavor.
+
+Armazenamento de dados
+
+-> Facilidade x Disponibilidade: Acesso aos dados / Tempo de carregamento / Permissão de acesso.
+ -> Importar / Directquery / Composto.
+
+Issues (Problemas)
+ -> Gargalo de acesso;
+ -> Tempo de execução;
+ -> Lentidão no carregamento;
+ -> Erros de importação;
+ -> Falhas do disco, server e outros.
+
+Dobragem de Consultas
+ -- O Motivo para implementação deste processo é garantir que estas transformações possam acontecer no servidor de origem de dados original sem sobrecarregar os recursos de computação do Power BI --
+ -> Aumento de desempenho;
+ -> Transformações controladas pela tool;
+ -> Execução no servidor (SQL).
+
+Performace
+ -> Processar dados na origem;
+ -> Utilizar SQL nativo;
+ -> Separar data e a hora do mesmo campo;
+ -> Manter a base a ser utilizada.
+ 
