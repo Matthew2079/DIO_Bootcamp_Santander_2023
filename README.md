@@ -6,6 +6,8 @@ Esse repositório tem o objetivo em armazenar o conteúdo gerado durante o apren
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"/>
 
+<p align="center">
+ <img src="https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023/assets/85805420/6867ccf8-bf8b-4a2e-a27e-5848061ae7ad)">
  
 ## Links Úteis
 
@@ -22,15 +24,10 @@ Esse repositório tem o objetivo em armazenar o conteúdo gerado durante o apren
 
 3. [Typora](https://typora.io/)
 
-   
-<h3>:hammer_and_wrench: Ferramentas Online</h3>
 
-1. [Conversor de Imagens](https://www.img2go.com/pt)
-
-2. [Compressor de Imagens](https://tinypng.com/)
-
-3. [Web Apps - Gerenciador de arquivos](https://123apps.com/)
-
+<h3>:books: Documentações</h3>  
+1. 
+2. 
 
 <h3>:pushpin: Extras</h3>
 
