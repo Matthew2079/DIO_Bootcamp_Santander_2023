@@ -1,0 +1,6 @@
+Algoritmos Bioinspirados
+
+ -> Inspirados no comportamento de seres vivos em convivência social;
+ -> Conhecimento colaborativo/compartilhado;
+ -> Métodos Heurísticos (não determinísticos, mas de uma maneira de fazer algo ou resultado);
+ -> Buscam a melhor solução global.

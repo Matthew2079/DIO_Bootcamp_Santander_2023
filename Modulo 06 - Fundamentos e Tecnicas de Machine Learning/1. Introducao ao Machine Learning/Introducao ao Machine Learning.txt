@@ -1,0 +1,13 @@
+
+Como IA é vista hoje?
+ -> IA Geral;
+ -> IA Restrita;
+ -> Machine Learning.
+
+Teste de Turing: Testa a capacidade de uma máquina exibir comportamento inteligente equivalente a um ser humano, ou indistinguível deste.
+
+Qual a relação entre ML e IA?
+ -> Por meio do ML obtemos (ou não) uma IA restrita.
+ -> Aprendizado de Máquina (Treinamento) ->> Inteligência Artificial.
+
+Machine Learning: É programar computadores para aprender um determinado comportamento ou padrão automaticamente a partir de exemplos ou observações DATASETS.

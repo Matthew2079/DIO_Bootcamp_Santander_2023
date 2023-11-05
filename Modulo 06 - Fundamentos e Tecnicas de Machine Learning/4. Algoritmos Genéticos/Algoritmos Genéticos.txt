@@ -1,0 +1,35 @@
+Algoritmos Genéticos
+ -> É uma técnica de busca utilizada na ciência da computação para achar soluções aproximadas em problemas de otimização e busca.
+
+Aplicações
+ -> Navegação robótica;
+ -> Inteligência Artificial;
+ -> Geração de novos dados;
+ -> Jogos digitais.
+
+Exemplos: Aplicações em ensino e chatbots
+ -> Gerar combinações de respostas para o usuário;
+ -> Gerar combinações de perguntas;
+ --> Deixar o sistema mais próximo de uma interação humana.
+
+Implementação de um AG
+ - Passo 0: Gera população inicial
+  -> Gera população de forma aleatória.
+  -> Define a população dentro de uma região de busca.
+
+ - Passo 1: Seleção dos melhores indivíduos iniciais
+  -> Método de seleção por roleta.
+  -> Seleciona os melhores individuos dada sua probabilidade.
+
+ - Passo 2: Recombinação de indivíduos
+  -> A recombinação vai recombinar os dois melhores indivíduos.
+  -> A meta é gerar um indivíduo melhor do que seus pais.
+
+ - Passo 3: Seleção dos melhores indivíduos iniciais.
+  -> Selecionar um ponto do cromossomo e gerar mutação.
+  -> Evita a convergência prematura do AG.
+
+Prática
+ -> Gerar soluções para comportamento dos personagens em um game.
+ --> Evitar comportamentos repetidos entre os agentes do game.
+ --> Gerar comportamentos novos para cada agente.
